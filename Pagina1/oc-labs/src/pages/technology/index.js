@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Container, Header, Grid, Segment, Image } from 'semantic-ui-react';
 import { VerticleButton as ScrollUpButton } from 'react-scroll-up-button';
 import { MenuBar, Footer } from '../../components';
-import './Home.css';
+import '../../pages/home/Home.css';
 import img1 from '../../images/ico-icon.png';
 import img2 from '../../images/walletr-icon.png';
 import img3 from '../../images/crypto-icon.png';

@@ -30,7 +30,8 @@ class Home extends Component {
  
           <Container>
           <p className="ppppp">
-                Blockcxhain Consulting</p>
+               
+                dApps Development</p>
 
           </Container>
          
@@ -39,15 +40,11 @@ class Home extends Component {
           <div style={{ marginTop: '250px' } }>
         
                     <Segment size="huge" ><Image verticalAlign="middle"  />
-                      <Header as='h4'>Blockchain Consulting</Header>
+                      <Header as='h4'>Assestment Services</Header>
                       <p as='h4'>
-                      There are different types of blockchain and various ways to use them. Some are public, others private. Some have a cost to use them, others do not have a direct cost. Using a blockchain is not just using bitcoin or an intelligent contract, it has to do with thinking about how its benefits help in business cases.
-
-Companies need to understand how to use blockchain for their business processes, and how a decentralization can generate benefits and not problems.
-
-What we do is detect the pain points in those business processes and expose as blockchain the improvement, obtaining more efficiency and reduction of costs.
-
-We have a consulting team, experts on different types of blockchain, to advise our clients on how to make better use of this technology.
+                      Sessions, on site or remote, to explain what blockchain is, benefits and also to receive information about our customer's business processes. We detect pain points and explain how blockchain can help. As delivery document we provide architecture document, plan and budget for the project.
+ 
+Customers use this services when they want to understand how much money to invest to solve the pain points. 
                         </p>
                    
                     </Segment>

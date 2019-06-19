@@ -30,7 +30,8 @@ class Home extends Component {
  
           <Container>
           <p className="ppppp">
-                Blockcxhain Consulting</p>
+               
+                Smart Contract Development</p>
 
           </Container>
          
@@ -39,15 +40,11 @@ class Home extends Component {
           <div style={{ marginTop: '250px' } }>
         
                     <Segment size="huge" ><Image verticalAlign="middle"  />
-                      <Header as='h4'>Blockchain Consulting</Header>
+                      <Header as='h4'>Smart Contracts</Header>
                       <p as='h4'>
-                      There are different types of blockchain and various ways to use them. Some are public, others private. Some have a cost to use them, others do not have a direct cost. Using a blockchain is not just using bitcoin or an intelligent contract, it has to do with thinking about how its benefits help in business cases.
+                      Smart Contracts are applications that run on the blockchain of ethereum. Same concept exists in hyperledger. Once we detecte the benefits of  blockchain on a business process, we develop these smart contracts to get the goals. In this way we make possible the elimination of any third party on that business process and therefore, the reduction of costs.
 
-Companies need to understand how to use blockchain for their business processes, and how a decentralization can generate benefits and not problems.
-
-What we do is detect the pain points in those business processes and expose as blockchain the improvement, obtaining more efficiency and reduction of costs.
-
-We have a consulting team, experts on different types of blockchain, to advise our clients on how to make better use of this technology.
+We have a large team of developers on ethereum and hyperledger.
                         </p>
                    
                     </Segment>
@@ -59,8 +56,9 @@ We have a consulting team, experts on different types of blockchain, to advise o
         <Segment size="huge" ><Image verticalAlign="middle"  />
           <Header as='h4'>More information</Header>
           <p>
-          Blockchain technology enables distributed public ledgers that hold immutable data in a secure and encrypted way and ensure that transactions can never be altered. While Bitcoin and other cryptocurrencies are the most popular examples of blockchain usage, this “distributed ledger technology” (DLT) is finding a broad range of uses. Data storage, financial transactions, real estate, asset management and many more uses are being explored.
-            </p>
+          A computer program code that is capable of facilitating, executing, and enforcing the negotiation or performance of an agreement  using blockchain technology.
+
+The entire process is automated can act as a complement, or substitute, for legal contracts, where the terms of the smart contract are recorded in a computer language as a set of instructions.            </p>
        
         </Segment>
        
