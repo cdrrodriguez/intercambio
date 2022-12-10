@@ -5,7 +5,7 @@
   "dependencies": {
     "axios": "^0.19.0",
     "bootstrap": "^4.3.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "react": "^16.7.0",
     "react-delay-render": "^0.1.2",
     "react-dom": "^16.7.0",
